@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
 //  CS193p Lecture
-//
-//  Created by Aaron Halvorsen on 9/25/17.
-//  Copyright © 2017 Aaron Halvorsen. All rights reserved.
+//  code from lecture
 //
 
 import Foundation
